@@ -15,6 +15,18 @@ body {
 .cust-text-color2 {
   color: #0a0826;
 }
+.cust-text-color3 {
+  color: #23a6f0;
+}
 .grayscale-img {
   filter: grayscale(100%);
+}
+.cust-font-size {
+  font-size: 26px;
+}
+.cust-align {
+  text-align: center;
+}
+.mg-t {
+  margin-top: 90px;
 }
